@@ -7,7 +7,6 @@
    date：          2019-10-29
 -------------------------------------------------
 """
-from flask import Blueprint
 
 from app.libs.redprint import Redprint
 
