@@ -21,7 +21,7 @@
                 "sha256:35824b4c3a97115964b408844d64aa14db1cc518f6562e8d7261699d1350a9e3",
                 "sha256:4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"
             ],
-            "index": "pypi",
+            "markers": "python_version >= '3.6'",
             "version": "==2022.12.7"
         },
         "chardet": {
@@ -177,11 +177,11 @@
         },
         "jinja2": {
             "hashes": [
-                "sha256:74320bb91f31270f9551d46522e33af46a80c3d619f4a4bf42b3164d30b5911f",
-                "sha256:9fe95f19286cfefaa917656583d020be14e7859c6b0252588391e47db34527de"
+                "sha256:03e47ad063331dd6a3f04a43eddca8a966a26ba0c5b7207a9a9e4e08f1b29419",
+                "sha256:a6d58433de0ae800347cab1fa3043cebbabe8baa9d29e668f1c768cb87a333c6"
             ],
             "index": "pypi",
-            "version": "==2.10.3"
+            "version": "==2.11.3"
         },
         "markupsafe": {
             "hashes": [
